@@ -1,0 +1,12 @@
+﻿  Main.cpp
+c:\users\richard\desktop\c++ a3 submission\a3v2\a3v2\main.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\richard\desktop\c++ a3 submission\a3v2\a3v2\main.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\richard\desktop\c++ a3 submission\a3v2\a3v2\main.cpp(121): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\richard\desktop\c++ a3 submission\a3v2\a3v2\main.cpp(370): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hero.cpp
+  Character.cpp
+  Boss.cpp
+c:\users\richard\desktop\c++ a3 submission\a3v2\a3v2\boss.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  A3V2.vcxproj -> C:\Users\Richard\Desktop\C++ A3 Submission\A3V2\Debug\A3V2.exe
+  A3V2.vcxproj -> C:\Users\Richard\Desktop\C++ A3 Submission\A3V2\Debug\A3V2.pdb (Partial PDB)
